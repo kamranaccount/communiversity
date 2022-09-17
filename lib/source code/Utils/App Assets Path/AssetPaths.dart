@@ -1,0 +1,52 @@
+class AssetPaths {
+  ///////////////////////// APP ICONS ////////////////////////////
+  static const String BACK_ICON = "assets/icons/back.png";
+  static const String CALENDER_ICON = "assets/icons/calender.png";
+  static const String CHAT_UPLOAD_IMAGE_ICON = "assets/icons/chat_upload_image.png";
+  static const String CROSS_ICON = "assets/icons/cross.png";
+  static const String DRAWER_ICON = "assets/icons/drawer.png";
+  static const String DROPDOWN_ICON = "assets/icons/dropdown_icon.png";
+  static const String EMAIL_ICON = "assets/icons/email.png";
+  static const String EVENT_SELECTED_ICON = "assets/icons/event_selected.png";
+  static const String  EVENT_UNSELECTED_ICON = "assets/icons/events_unselected.png";
+  static const String FAVOURITE_ICON = "assets/icons/favourite.png";
+  static const String FAVOURITEICON = "assets/icons/favourite_icon.png";
+  static const String GAME_SELECTED_ICON = "assets/icons/game_selected.png";
+  static const String GAME_UNSELECTED_ICON = "assets/icons/game_unselected.png";
+  static const String GRADUATE_ICON = "assets/icons/graduate.png";
+  static const String GREETING_ICON = "assets/icons/greeting_icon.png";
+  static const String HEEL_ICON = "assets/icons/heel.png";
+  static const String HOME_ICON = "assets/icons/home.png";
+  static const String HOME_SELECTED_ICON = "assets/icons/home_selected.png";
+  static const String HOME_UNSELECTED_ICON = "assets/icons/home_unselected.png";
+  static const String LOCATION_ICON = "assets/icons/location.png";
+  static const String MARKER_ICON = "assets/icons/marker.png";
+  static const String MESSAGE_ICON = "assets/icons/message.png";
+  static const String NOTIFICATION_ICON = "assets/icons/notification.png";
+  static const String PASSWORD_ICON = "assets/icons/password.png";
+  static const String PRIVACY_ICON = "assets/icons/privacy_policy.png";
+  static const String PROFILE_SELECTED_ICON = "assets/icons/profile_selected.png";
+  static const String PROFILE_UNSELECTED_ICON = "assets/icons/profile_unselected.png";
+  static const String SEND_CHAT_ICON = "assets/icons/send_chat.png";
+  static const String SETTINGS_ICON = "assets/icons/setting.png";
+  static const String SIGNOUT_ICON = "assets/icons/signout.png";
+  static const String TERMS_CONDITION_ICON = "assets/icons/terms_condition.png";
+  static const String TICK_ICON = "assets/icons/tick_icon.png";
+  static const String TIME_ICON = "assets/icons/time.png";
+  static const String UPLOAD_ICON = "assets/icons/upload.png";
+  static const String USER_ICON = "assets/icons/user.png";
+  static const String USER_PROFILE_ICON = "assets/icons/user_profile.png";
+  ///////////////////////// APP IMAGES ///////////////////////////
+  static const String BOTTOM_IMAGE = "assets/images/Bottom.png";
+  static const String FORGOT_PASSWORD_IMAGE = "assets/images/Forgot_Password.png";
+  static const String HEEL_IMAGE = "assets/images/heel.png";
+  static const String HOME_IMAGE = "assets/images/home_image.png";
+  static const String LOGIN_IMAGE = "assets/images/Login.png";
+  static const String LOGO_IMAGE = "assets/images/Logo.png";
+  static const String OTP_VERIFICATION_IMAGE = "assets/images/OTP_Verification.png";
+  static const String RESET_PASSWORD_IMAGE = "assets/images/Reset_Password.png";
+  static const String SIGNUP_IMAGE = "assets/images/Signup.png";
+  static const String TOP_IMAGE = "assets/images/Top.png";
+  static const String PROFILE_IMAGE = "assets/images/profile.png";
+  static const String DUMMY_IMAGE = "assets/images/Dummy.png";
+}
